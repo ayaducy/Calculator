@@ -1,2 +1,4 @@
 # Calculator
-a minimalist calculator
+A minimalist calculator
+
+>launch the Calculator.exe file directly to use.
